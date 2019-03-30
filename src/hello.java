@@ -6,6 +6,7 @@ public class hello {
 		System.out.println("my first commit");
 		System.out.println("Have a nice day");
 		System.out.println("cahnges by dev 2");
+		System.out.println("changes by eclipse");
 	}
 
 }
